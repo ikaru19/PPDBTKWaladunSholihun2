@@ -1,0 +1,27 @@
+<resources>
+
+
+    <string name="app_name">PPDB TK Waladun Sholihun</string>
+    <string name="hint_email">Email Orangtua</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Nama Lengkap</string>
+    <string name="hint_agama">Agama</string>
+    <string name="hint_notel">Nomor Telepon</string>
+    <string name="hint_nameortu">Nama Orang Tua</string>
+    <string name="hint_alamat">Alamat</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Belum punya akun? Daftar disini.</string>
+    <string name="btn_link_to_login">Sudah punya akun! Login disini.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="title_activity_main2">PPDB TK Waladun Sholihun</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
